@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(231, 231, 231);
+}
+
+.button-primary {
+  background-color: #00a1eb;  
+  border-color: #008dd7;
+  border-width: 1px;
+  color: #edf8ff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700; 
+  height: 32px;
+  padding: 0.2em 0.6rem 0.2rem 0.6rem;
+  width: auto;  
+}
+
+.button-primary:hover {
+  background: #29bbfb;
+}
+
+.button-primary:disabled {
+  font-
+}
+
+.button-primary:focus {
+  color: #edf8ff;
+  background: #007cc3;
+  border-color: #008dd7;
+  border-width: 1px;
+}
+
+div {
+  margin: 10px;
+}
+
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1rem;
+}
